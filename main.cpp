@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
-  cout << "hi";
+  ios::sync_with_stdio(0);
+  cin.tie(0);
+  cout << "hi\n";
   return 0;
 }
