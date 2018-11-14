@@ -5,7 +5,6 @@ letter = "abcdefghijklmnopqrstuvwxyz"
 
 def caesar(input):
     output = "+" + str(n) + ":\t"
-    str(output)
     for i in range(len(text)):
       if(letter.find(text[i]) >= 0):
         if(letter.find(text[i])+input >= 26):
